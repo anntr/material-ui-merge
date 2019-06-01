@@ -11,7 +11,8 @@ module.exports = {
           "src/Button/Button.js",
           "src/IconButton/IconButton.js",
           "src/Fab/Fab.js",
-          "src/Link/Link.js"
+          "src/Link/Link.js",
+          "src/ReactWroclove/Wroclove.js"
         ]
       },
       {
